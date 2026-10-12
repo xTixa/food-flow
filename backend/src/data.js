@@ -84,13 +84,3 @@ export const restaurants = [
     ]
   }
 ];
-
-export const orders = [
-  {
-    id: "ORD-1024",
-    restaurantName: "Bistro Avenida",
-    status: "A preparar",
-    total: 12.39,
-    eta: "28 min"
-  }
-];
